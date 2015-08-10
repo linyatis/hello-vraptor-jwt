@@ -1,7 +1,7 @@
 #How to work with JWT and VRaptor
 
-This is a "Hello World" project to guide you how to integrate a JWT token based authentication and VRaptor Framework.
-
+This is a "Hello World" project to guide you how to integrate a JWT token based authentication and VRaptor Framework.  
+This example runs on Tomcat 7.
 
 ##How to test
 To test it you can use any resource to send requests with an authorization header.
